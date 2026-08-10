@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: frispiny-kazino.github.io
+Sitemap: https://frispiny-kazino.github.io/sitemap.xml
